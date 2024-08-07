@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\views\\producto\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\producto\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|d:\\u\\2024\\ii cuatri\\prograavanzada\\proyecto\\proyectoprograavanzadag\\views\\pedido\\orderhistoryview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\pedido\\orderhistoryview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|d:\\u\\2024\\ii cuatri\\prograavanzada\\proyecto\\proyectoprograavanzadag\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|d:\\u\\2024\\ii cuatri\\prograavanzada\\proyecto\\proyectoprograavanzadag\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|d:\\u\\2024\\ii cuatri\\prograavanzada\\proyecto\\proyectoprograavanzadag\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\views\\producto\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\producto\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|d:\\u\\2024\\ii cuatri\\prograavanzada\\proyecto\\proyectoprograavanzadag\\views\\producto\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\producto\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|d:\\u\\2024\\ii cuatri\\prograavanzada\\proyecto\\proyectoprograavanzadag\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\views\\usuario\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\usuario\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|d:\\u\\2024\\ii cuatri\\prograavanzada\\proyecto\\proyectoprograavanzadag\\views\\carrito\\cartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\carrito\\cartview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 53,
+          "SelectedChildIndex": 54,
           "Children": [
             {
               "$type": "Bookmark",
@@ -262,56 +254,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Catalog.cshtml",
-              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Producto\\Catalog.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\Catalog.cshtml",
-              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Producto\\Catalog.cshtml",
-              "RelativeToolTip": "Views\\Producto\\Catalog.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T01:03:46.458Z",
+              "DocumentIndex": 1,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidoController.cs",
+              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:32:18.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "OrderHistoryView.cshtml",
+              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Pedido\\OrderHistoryView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pedido\\OrderHistoryView.cshtml",
+              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Pedido\\OrderHistoryView.cshtml",
+              "RelativeToolTip": "Views\\Pedido\\OrderHistoryView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T22:31:35.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
               "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T00:36:05.658Z"
+              "WhenOpened": "2024-08-07T22:30:25.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductList.cshtml",
-              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Producto\\ProductList.cshtml",
-              "RelativeDocumentMoniker": "Views\\Producto\\ProductList.cshtml",
-              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Producto\\ProductList.cshtml",
-              "RelativeToolTip": "Views\\Producto\\ProductList.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-06T00:31:16.907Z"
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarritoController.cs",
+              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "Controllers\\CarritoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:29:56.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Usuario\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuario\\Register.cshtml",
-              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Usuario\\Register.cshtml",
-              "RelativeToolTip": "Views\\Usuario\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-05T23:20:15.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
@@ -319,56 +314,34 @@
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T23:19:59.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T23:30:16.978Z"
+              "WhenOpened": "2024-08-07T22:29:49.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-05T23:48:13.85Z",
+              "Title": "Catalog.cshtml",
+              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Producto\\Catalog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producto\\Catalog.cshtml",
+              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Producto\\Catalog.cshtml",
+              "RelativeToolTip": "Views\\Producto\\Catalog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T22:29:03.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T23:40:24.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T23:24:45.263Z"
+              "Title": "CartView.cshtml",
+              "DocumentMoniker": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Carrito\\CartView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Carrito\\CartView.cshtml",
+              "ToolTip": "D:\\U\\2024\\II Cuatri\\PrograAvanzada\\Proyecto\\ProyectoPrograAvanzadaG\\Views\\Carrito\\CartView.cshtml",
+              "RelativeToolTip": "Views\\Carrito\\CartView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T22:29:01.894Z",
+              "EditorCaption": ""
             }
           ]
         },

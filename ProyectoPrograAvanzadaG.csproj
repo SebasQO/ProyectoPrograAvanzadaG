@@ -212,11 +212,11 @@
     <Content Include="Views\Usuario\Login.cshtml" />
     <Content Include="Views\Producto\ProductList.cshtml" />
     <Content Include="Views\Producto\Catalog.cshtml" />
+    <Content Include="Views\Carrito\CartView.cshtml" />
+    <Content Include="Views\Pedido\OrderHistoryView.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Carrito\" />
-    <Folder Include="Views\Pedido\" />
     <Folder Include="Views\Resena\" />
   </ItemGroup>
   <ItemGroup>

@@ -11,6 +11,12 @@ namespace ProyectoPrograAvanzadaG.Controllers
     {
         private ApplicationDbContext db = new ApplicationDbContext();
 
+        [HttpGet]
+        public ActionResult CartView()
+        {
+            return View();
+        }
+
         // Agregar producto al carrito
         [HttpPost]
         public ActionResult AddToCart(int codigoProducto)

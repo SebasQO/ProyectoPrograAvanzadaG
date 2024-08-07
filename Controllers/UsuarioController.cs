@@ -25,7 +25,6 @@ namespace ProyectoPrograAvanzadaG.Controllers
             {
                 try
                 {
-                    //usuario.Contrasena = EncryptPassword(usuario.Contrasena);
                     usuario.UltimaConexion = DateTime.Now;
                     db.Usuarios.Add(usuario);
                     db.SaveChanges();

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<ProyectoPrograAvanzadaG.Models.Producto>
+
+@{
+    ViewBag.Title = "Carrito de Compras";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CartView</title>
+</head>
+<body>
+
+    <h2>Carrito de Compras</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var producto in Model)
+            {
+                <tr>
+                    <td>@producto.NombreProducto</td>
+                    <td>@producto.Precio</td>
+                    <td>
+                        @Html.ActionLink("Eliminar", "RemoveFromCart", new { id = producto.CodigoProducto }) |
+                        @Html.ActionLink("Comprar", "Checkout", new { id = producto.CodigoProducto })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

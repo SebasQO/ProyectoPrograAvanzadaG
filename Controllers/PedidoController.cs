@@ -21,5 +21,11 @@ namespace ProyectoPrograAvanzadaG.Controllers
             }
             return RedirectToAction("Index");
         }
+
+        [HttpGet]
+        public ActionResult OrderHistoryView()
+        {
+            return View();
+        }
     }
 }

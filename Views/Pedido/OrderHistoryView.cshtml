@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ProyectoPrograAvanzadaG.Models.Pedido>
+
+@{
+    ViewBag.Title = "Historial de Compras";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Order History</title>
+</head>
+<body>
+    <h2>Historial de Compras</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Código de Pedido</th>
+                <th>Fecha</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pedido in Model)
+            {
+                <tr>
+                    <td>@pedido.CodigoPedido</td>
+                    <td>@pedido.Fecha</td>
+                    <td>
+                        @Html.ActionLink("Detalles", "OrderDetails", new { id = pedido.CodigoPedido })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
