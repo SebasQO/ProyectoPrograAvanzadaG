@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProyectoPrograAvanzadaG.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,23 +9,18 @@ namespace ProyectoPrograAvanzadaG.Controllers
 {
     public class HomeController : Controller
     {
+        private ApplicationDbContext db = new ApplicationDbContext();
+
         public ActionResult Index()
         {
-            return View();
-        }
-
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+            var model = new DashboardViewModel
+            {
+                TotalUsuarios = db.Usuarios.Count(),
+                TotalProductos = db.Productos.Count(),
+                TotalPedidosRecientes = db.Carritos.Count(),
+                TotalReseñasPendientes = db.Resenas.Count()
+            };
+            return View(model);
         }
     }
 }
