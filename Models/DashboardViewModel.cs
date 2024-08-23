@@ -10,6 +10,7 @@ namespace ProyectoPrograAvanzadaG.Models
     {
         public int TotalUsuarios { get; set; }
         public int TotalProductos { get; set; }
+        public int TotalClientes { get; set; }
         public int TotalPedidosRecientes { get; set; }
         public int TotalReseñasPendientes { get; set; }
     }
