@@ -10,9 +10,13 @@ namespace ProyectoPrograAvanzadaG.Models
     {
         [Key]
         public int CodigoProducto { get; set; }
+        
         public string NombreProducto { get; set; }
         public decimal Precio { get; set; }
         public bool Disponibilidad { get; set; }
         public bool Estado { get; set; }
+
+        [Timestamp]
+        public byte[] RowVersion { get; set; }
     }
 }
