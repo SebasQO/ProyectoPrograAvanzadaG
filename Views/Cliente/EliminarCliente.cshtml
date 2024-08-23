@@ -1,0 +1,46 @@
+@model ProyectoPrograAvanzadaG.Models.Cliente
+
+@{
+    Layout = null;
+}
+
+@{
+    ViewBag.Title = "Eliminar Cliente";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Eliminar Cliente</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <a href="@Url.Action("Index", "Home")" class="btn btn-primary mt-3">Volver a la Página Principal</a>
+        <h2 class="my-4">Eliminar Cliente</h2>
+        <div class="alert alert-warning">
+            <h4>¿Estás seguro de que deseas eliminar este cliente?</h4>
+            <dl class="row">
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Nombre)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Nombre)</dd>
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Direccion)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Direccion)</dd>
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Telefono)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Telefono)</dd>
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Correo)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Correo)</dd>
+            </dl>
+        </div>
+
+        @using (Html.BeginForm("EliminarCliente", "Cliente", FormMethod.Post, new { id = Model.ClienteId }))
+        {
+            @Html.AntiForgeryToken()
+            <div class="form-group">
+                <input type="submit" value="Eliminar" class="btn btn-danger" />
+                @Html.ActionLink("Cancelar", "ListaClientes", null, new { @class = "btn btn-secondary ms-2" })
+            </div>
+        }
+    </div>
+</body>
+</html>
