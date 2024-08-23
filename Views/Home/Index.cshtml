@@ -15,18 +15,14 @@
                 <p>@Model.TotalUsuarios</p>
             </div>
         </div>
-        <div class="col-md-3">
-            <div class="dashboard-panel">
-                <h3>Productos en Inventario</h3>
-                <p>@Model.TotalProductos</p>
-            </div>
-        </div>
+
         <div class="col-md-3">
             <div class="dashboard-panel">
                 <h3>Pedidos Recientes</h3>
                 <p>@Model.TotalPedidosRecientes</p>
             </div>
         </div>
+
         <div class="col-md-3">
             <div class="dashboard-panel">
                 <h3>Reseñas Pendientes</h3>
@@ -39,7 +35,30 @@
         <div class="col-md-12">
             <div class="dashboard-panel">
                 <h3>Ventas Recientes</h3>
+                <p>@Model.TotalVentasRecientes</p>
+            </div>
+        </div>
+    </div>
 
+           <div class="row">
+            <div class="col-md-3">
+                <!-- Sección de Clientes -->
+                <div class="col-md-6">
+                    <div class="dashboard-panel">
+                        <h3>Clientes</h3>
+                        <p>@Model.TotalClientes</p>
+                        <p>@Html.ActionLink("Gestionar Clientes", "Index", "Cliente/ListaClientes")</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Productos en Inventario -->
+            <div class="col-md-3">
+                <div class="dashboard-panel">
+                    <h3>Productos</h3>
+                    <p>@Model.TotalProductos</p>
+                    <p>@Html.ActionLink("Gestionar Productos", "Index", "Producto/ListaProductos")</p>
+                </div>
             </div>
         </div>
     </div>
