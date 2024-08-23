@@ -1,4 +1,4 @@
-﻿namespace ProyectoPrograAvanzadaG.Migrations
+namespace ProyectoPrograAvanzadaG.Migrations
 {
     using System;
     using System.Data.Entity;
@@ -10,7 +10,6 @@
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
-            ContextKey = "ProyectoPrograAvanzadaG.Models.ApplicationDbContext";
         }
 
         protected override void Seed(ProyectoPrograAvanzadaG.Models.ApplicationDbContext context)
@@ -21,4 +20,3 @@
             //  to avoid creating duplicate seed data.
         }
     }
-}
