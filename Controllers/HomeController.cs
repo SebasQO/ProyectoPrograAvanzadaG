@@ -16,9 +16,10 @@ namespace ProyectoPrograAvanzadaG.Controllers
             var model = new DashboardViewModel
             {
                 TotalUsuarios = db.Usuarios.Count(),
-                TotalProductos = db.Productos.Count(),
-                TotalPedidosRecientes = db.Carritos.Count(),
-                TotalReseñasPendientes = db.Resenas.Count()
+                TotalProductos = db.Productos.Count(),             
+                TotalReseñasPendientes = db.Resenas.Count(),
+                TotalPedidosRecientes = db.Pedidos.Count(),
+                Pedidos = db.Pedidos.ToList()
             };
             return View(model);
         }

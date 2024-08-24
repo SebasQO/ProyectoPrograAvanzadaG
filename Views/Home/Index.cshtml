@@ -2,64 +2,83 @@
 
 @{
     ViewBag.Title = "Dashboard";
-    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Dashboard</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/608e017a78.js" crossorigin="anonymous"></script>
+</head>
+<body>
 
-<div class="dashboard-container">
-    <div class="row">
-        <div class="col-md-3">
-            <div class="dashboard-panel">
-                <h3>Usuarios Registrados</h3>
-                <p>@Model.TotalUsuarios</p>
-            </div>
-        </div>
+    <h2>Dashboard</h2>
 
-        <div class="col-md-3">
-            <div class="dashboard-panel">
-                <h3>Pedidos Recientes</h3>
-                <p>@Model.TotalPedidosRecientes</p>
-            </div>
-        </div>
-
-        <div class="col-md-3">
-            <div class="dashboard-panel">
-                <h3>Reseñas Pendientes</h3>
-                <p>@Model.TotalReseñasPendientes</p>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12">
-            <div class="dashboard-panel">
-                <h3>Ventas Recientes</h3>
-                <p>@Model.TotalVentasRecientes</p>
-            </div>
-        </div>
-    </div>
-
-           <div class="row">
-            <div class="col-md-3">
-                <!-- Sección de Clientes -->
-                <div class="col-md-6">
-                    <div class="dashboard-panel">
-                        <h3>Clientes</h3>
-                        <p>@Model.TotalClientes</p>
-                        <p>@Html.ActionLink("Gestionar Clientes", "Index", "Cliente/ListaClientes")</p>
+    <div class="container">
+        <div class="row mt-5">
+            <div class="col-md-4">
+                <div class="card zoom-in-out-box">
+                    <div class="card-body">
+                        <div class="card-icon">
+                            <i class="fa-solid fa-users"></i>
+                        </div>
+                        <h5 class="card-title">Total Usuarios</h5>
+                        <p class="card-text">@Model.TotalUsuarios</p>
                     </div>
                 </div>
             </div>
-
-            <!-- Productos en Inventario -->
-            <div class="col-md-3">
-                <div class="dashboard-panel">
-                    <h3>Productos</h3>
-                    <p>@Model.TotalProductos</p>
-                    <p>@Html.ActionLink("Gestionar Productos", "Index", "Producto/ListaProductos")</p>
+            <div class="col-md-4">
+                <div class="card zoom-in-out-box">
+                    <div class="card-body">
+                        <div class="card-icon">
+                            <i class="fa-solid fa-tag"></i>
+                        </div>
+                        <h5 class="card-title">Total Productos</h5>
+                        <p class="card-text">@Model.TotalProductos</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card zoom-in-out-box">
+                    <div class="card-body">
+                        <div class="card-icon">
+                            <i class="fa-solid fa-clipboard-list"></i>
+                        </div>
+                        <h5 class="card-title">Total Pedidos Recientes</h5>
+                        <p class="card-text">@Model.TotalPedidosRecientes</p>
+                    </div>
                 </div>
             </div>
         </div>
+
+        <table class="table table-striped table-bordered mt-4">
+            <thead>
+                <tr>
+                    <th>Código Pedido</th>
+                    <th>Código Usuario</th>
+                    <th>Fecha</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @*@foreach (var pedido in Model.Pedidos)
+                {
+                    <tr>
+                        <td>@pedido.CodigoPedido</td>
+                        <td>@pedido.CodigoUsuario</td>
+                        <td>@pedido.Fecha.ToShortDateString()</td>
+                        <td>
+                            <a href="@Url.Action("Detalles", new { id = pedido.CodigoPedido })">Ver Detalles</a>
+                        </td>
+                    </tr>
+                }*@
+            </tbody>
+        </table>
     </div>
-</div>
+</body>
+</html>
+
+
+</body>
+</html>

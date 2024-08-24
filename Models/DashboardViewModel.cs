@@ -13,5 +13,6 @@ namespace ProyectoPrograAvanzadaG.Models
         public int TotalClientes { get; set; }
         public int TotalPedidosRecientes { get; set; }
         public int TotalReseñasPendientes { get; set; }
+        public IEnumerable<Pedido> Pedidos { get; set; }
     }
 }

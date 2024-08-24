@@ -16,7 +16,7 @@ namespace ProyectoPrograAvanzadaG.Controllers
         // Acción para listar todos los productos
         public ActionResult ListaProductos()
         {
-          var productos = db.Producto.ToList(); // Accede a la entidad Productos a través del contexto
+          var productos = db.Productos.ToList(); // Accede a la entidad Productos a través del contexto
           return View(productos);
         }
         
@@ -33,7 +33,7 @@ namespace ProyectoPrograAvanzadaG.Controllers
         {
           if (ModelState.IsValid)
           { 
-            db.Producto.Add(producto); // Agrega el nuevo producto al contexto
+            db.Productos.Add(producto); // Agrega el nuevo producto al contexto
             db.SaveChanges(); // Guarda los cambios en la base de datos
             return RedirectToAction("ListaProductos");
           }
@@ -43,7 +43,7 @@ namespace ProyectoPrograAvanzadaG.Controllers
         // Acción para ver los detalles de un producto específico
         public ActionResult DetallesProducto(int id)
         {
-          var producto = db.Producto.Find(id); // Busca el producto por ID
+          var producto = db.Productos.Find(id); // Busca el producto por ID
           if (producto == null)
           {
             return HttpNotFound();
@@ -55,7 +55,7 @@ namespace ProyectoPrograAvanzadaG.Controllers
         [HttpGet]
         public ActionResult EditarProducto(int id)
         {
-          var producto = db.Producto.Find(id);
+          var producto = db.Productos.Find(id);
           if (producto == null)
           {
             return HttpNotFound();
@@ -80,7 +80,7 @@ namespace ProyectoPrograAvanzadaG.Controllers
         [HttpGet]
         public ActionResult EliminarProducto(int id)
         {
-          var producto = db.Producto.Find(id);
+          var producto = db.Productos.Find(id);
           if (producto == null)
           {
             return HttpNotFound();
@@ -92,10 +92,10 @@ namespace ProyectoPrograAvanzadaG.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult EliminarProductoConfirmed(int id)
         {
-          var producto = db.Producto.Find(id);
+          var producto = db.Productos.Find(id);
           if (producto != null)
           {
-             db.Producto.Remove(producto); // Elimina el cliente del contexto
+             db.Productos.Remove(producto); // Elimina el cliente del contexto
              db.SaveChanges(); // Guarda los cambios en la base de datos
           }
           return RedirectToAction("ListaProductos");

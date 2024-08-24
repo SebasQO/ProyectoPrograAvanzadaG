@@ -27,5 +27,11 @@ namespace ProyectoPrograAvanzadaG.Controllers
         {
             return View();
         }
+
+        public ActionResult Index()
+        {
+            var pedidos = db.Pedidos.ToList();
+            return View(pedidos);
+        }
     }
 }

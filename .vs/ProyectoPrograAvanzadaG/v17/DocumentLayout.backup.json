@@ -7,36 +7,28 @@
       "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\views\\usuario\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\usuario\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\views\\pedido\\orderhistoryview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:views\\pedido\\orderhistoryview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|g:\\my drive\\github\\proyectoprograavanzadag\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{247D520D-E0D1-4E1F-930C-0BE5420DA511}|ProyectoPrograAvanzadaG.csproj|solutionrelative:content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -262,67 +254,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Models\\Pedido.cs",
-              "RelativeDocumentMoniker": "Models\\Pedido.cs",
-              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Models\\Pedido.cs",
-              "RelativeToolTip": "Models\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T02:24:00.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Models\\DashboardViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\DashboardViewModel.cs",
-              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Models\\DashboardViewModel.cs",
-              "RelativeToolTip": "Models\\DashboardViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PedidoController.cs",
+              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T02:23:49.374Z",
+              "WhenOpened": "2024-08-24T19:45:48.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Style.css",
+              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Content\\Style.css",
+              "RelativeDocumentMoniker": "Content\\Style.css",
+              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Content\\Style.css",
+              "RelativeToolTip": "Content\\Style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-24T18:51:10.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T02:16:39.321Z",
+              "WhenOpened": "2024-08-24T18:50:40.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Usuario\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuario\\Login.cshtml",
-              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Usuario\\Login.cshtml",
-              "RelativeToolTip": "Views\\Usuario\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T02:16:38.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T02:15:34.366Z",
+              "WhenOpened": "2024-08-24T17:39:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardViewModel.cs",
+              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "Models\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:38:41.227Z",
               "EditorCaption": ""
             },
             {
@@ -333,48 +325,22 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T02:14:45.188Z",
+              "WhenOpened": "2024-08-24T17:37:45.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Usuario\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuario\\Register.cshtml",
-              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Usuario\\Register.cshtml",
-              "RelativeToolTip": "Views\\Usuario\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T02:07:43.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Web.config",
-              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-21T02:07:14.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderHistoryView.cshtml",
-              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Pedido\\OrderHistoryView.cshtml",
-              "RelativeDocumentMoniker": "Views\\Pedido\\OrderHistoryView.cshtml",
-              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Views\\Pedido\\OrderHistoryView.cshtml",
-              "RelativeToolTip": "Views\\Pedido\\OrderHistoryView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T22:31:35.481Z",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "G:\\My Drive\\GitHub\\ProyectoPrograAvanzadaG\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:37:11.903Z",
               "EditorCaption": ""
             }
           ]
