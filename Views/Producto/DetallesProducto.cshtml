@@ -35,8 +35,9 @@
             </div>
         </div>
         <div class="mt-3">
-            @Html.ActionLink("Editar Producto", "EditarProducto", new { id = Model.CodigoProducto }, new { @class = "btn btn-primary" }) |
-            @Html.ActionLink("Volver a la lista", "ListaProductos", null, new { @class = "btn btn-secondary" })
+            @Html.ActionLink("Editar", "EditarProducto", new { id = Model.ClienteId }, new { @class = "btn btn-warning" })
+               | @Html.ActionLink("Eliminar", "EliminarProducto", new { id = Model.ClienteId }, new { @class = "btn btn-danger" })
+               | @Html.ActionLink("Volver a la lista", "ListaProducto", null, new { @class = "btn btn-secondary" })
         </div>
     </div>
 </body>
