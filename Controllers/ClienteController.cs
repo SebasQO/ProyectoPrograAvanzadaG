@@ -60,7 +60,7 @@ namespace ProyectoPrograAvanzadaG.Controllers
             return View(cliente);
         }
 
-        [HttpPost]
+       [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult EditarCliente(Cliente cliente)
         {
@@ -72,7 +72,6 @@ namespace ProyectoPrograAvanzadaG.Controllers
             }
             return View(cliente);
         }
-
         // Acción para eliminar un cliente
         [HttpGet]
         public ActionResult EliminarCliente(int id)
