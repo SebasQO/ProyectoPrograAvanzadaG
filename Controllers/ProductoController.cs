@@ -63,7 +63,7 @@ namespace ProyectoPrograAvanzadaG.Controllers
           return View(producto);
         }
         
-        [HttpPost]
+       [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult EditarProducto(Producto producto)
         {
@@ -75,7 +75,6 @@ namespace ProyectoPrograAvanzadaG.Controllers
           }
           return View(producto);
         }
-        
         // Acción para eliminar un producto
         [HttpGet]
         public ActionResult EliminarProducto(int id)
